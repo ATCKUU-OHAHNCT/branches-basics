@@ -1,6 +1,8 @@
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "\nHello World!\n\n";
+    cout << "\nHello World, again\n\n";
 }
